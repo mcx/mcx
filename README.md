@@ -31,9 +31,11 @@
 </p>
 -->
 
-<!-- <p align="center"> -->
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mcccxx&layout=wide&dark_mode=on)](https://twitter.com/mcccxx)
-<!-- </p> -->
+<p align="center">
+    <a href="https://twitter.com/mcccxx)"><img alt="github-readme-twitter" src="https://github-readme-twitter.gazf.vercel.app/api?id=mcccxx&layout=wide&dark_mode=on"></a>
+</p>
+
+<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mcccxx&layout=wide&dark_mode=on)](https://twitter.com/mcccxx) -->
 
 <!--
 **mcx/mcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
