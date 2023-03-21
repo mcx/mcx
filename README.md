@@ -17,10 +17,11 @@
 
 
 <p align="center">
-    <a href="https://github.com/mcx?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/mcx" target="_blank"><img alt="mcx_visits" src="https://badges.pufler.dev/visits/mcx/mcx?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/mcx" target="_blank"><img alt="mcx_years" src="https://badges.pufler.dev/years/mcx?logo=GitHub&label=years&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/mcx?tab=followers"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white&label=Updates"></a>
+    <a href="https://github.com/mcx" target="_blank"><img alt="mcx_years" src="https://badges.strrl.dev/years/mcx?logo=GitHub&label=Years&color=success&logoColor=white&style=flat-square"/></a>
 </p>
+
+
 
 <!--
 <p align="center">
